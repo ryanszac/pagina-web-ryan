@@ -1,13 +1,13 @@
 criaCartao(
     'Geografia',
     'Em qual continente fica o deserto do Saara?',
-    'O deserto do Saara** fica no continente **africano**.'
+    'O deserto do Saara fica no continente africano.'
 )
 
 criaCartao(
     'Conhecimentos Gerais',
     'Qual é o animal mais lento do mundo?',
-    'O animal mais lento do mundo é o **bicho-preguiça**, que se move a uma velocidade média de apenas 0,03 km/h! 🦥'
+    'O animal mais lento do mundo é o bicho-preguiça, que se move a uma velocidade média de apenas 0,03 km/h! 🦥'
 )
 
 criaCartao(
