@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Em qual continente fica o deserto do Saara?',
+    'O deserto do Saara** fica no continente **africano**.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimentos Gerais',
+    'Qual é o animal mais lento do mundo?',
+    'O animal mais lento do mundo é o **bicho-preguiça**, que se move a uma velocidade média de apenas 0,03 km/h! 🦥'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Qual animal é conhecido por ter a língua mais longa em relação ao tamanho do corpo?',
+    'O camaleão é conhecido por ter a língua mais longa em relação ao tamanho do corpo. Sua língua pode ser até duas vezes o comprimento de seu corpo!'
+)
+
+criaCartao(
+    'Conhecimentos Gerais',
+    'Qual país é conhecido como a "terra do sol nascente"?',
+    'O Japão é conhecido como a "terra do sol nascente" devido à sua localização geográfica, onde o sol nasce primeiro em relação ao continente asiático.'
 )
